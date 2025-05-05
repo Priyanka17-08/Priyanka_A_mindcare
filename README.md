@@ -15,7 +15,6 @@ UI Library: shadcn/ui
 
 Styling: Tailwind CSS
 
-Component Styling: Styled using Radix-based shadcn components
 
 
 # 💡 Features
@@ -26,6 +25,11 @@ Early Distress Detection: Proactively recommends self-care tools or professional
 Privacy-Centered: All training data is anonymized and ethically sourced.
 
 Tailored Responses: Adjusts tone and support tools based on conversation flow.
+
+# VIDEO PRESENTATION
+https://drive.google.com/file/d/1mFHrwg-mPj9BNHaiC8pT5vn-F5XSbuJ3/view?usp=drivesdk
+# PROJECT REPORT
+https://docs.google.com/document/d/1XnUDMj4_G8Vj8EJreDRwRz0nUszpm3Wg/edit?usp=drivesdk&ouid=110227187604279858667&rtpof=true&sd=true
 
 
 # 🔒 Privacy & Ethics
